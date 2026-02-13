@@ -1,4 +1,4 @@
-https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true
+![image alt](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)
 
 # Smart Expense Tracker
 

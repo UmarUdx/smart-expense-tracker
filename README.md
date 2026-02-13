@@ -28,14 +28,15 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Expense Tracker Screenshot 1](image/screenshot1.png)
+![Expense Tracker Screenshot 1](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)
 
 ### Add Expense Page
-![Expense Tracker Screenshot 2](image/screenshot2.png)
+![Expense Tracker Screenshot 2](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot2.png?raw=true)
 
 ### Search & Pagination
-![Expense Tracker Screenshot 3](image/screenshot3.png)
+![Expense Tracker Screenshot 3](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot3.png?raw=true)
 
 ### Expense Summary / Dashboard
-![Expense Tracker Screenshot 4](image/screenshot4.png)
+![Expense Tracker Screenshot 4](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot4.png?raw=true)
+
 

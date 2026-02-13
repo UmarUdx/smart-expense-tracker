@@ -28,13 +28,13 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Expense Tracker Screenshot 1](screenshot1.png)
+![Expense Tracker Screenshot 1](images/screenshot1.png)
 
 ### Add Expense Page
-![Expense Tracker Screenshot 2](screenshot2.png)
+![Expense Tracker Screenshot 2](images/screenshot2.png)
 
 ### Search & Pagination
-![Expense Tracker Screenshot 3](screenshot3.png)
+![Expense Tracker Screenshot 3](images/screenshot3.png)
 
 ### Expense Summary / Dashboard
-![Expense Tracker Screenshot 4](screenshot4.png)
+![Expense Tracker Screenshot 4](images/screenshot4.png)

@@ -1,7 +1,3 @@
-![image alt](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)
-
-![image alt](./image/screenshot2.png)
-
 # Smart Expense Tracker
 
 A simple and professional expense tracking app built with **FastAPI** (backend) and **Streamlit** (frontend).
@@ -29,7 +25,7 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 ### Home Page
 ![image alt](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)

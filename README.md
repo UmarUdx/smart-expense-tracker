@@ -23,7 +23,6 @@ git clone https://github.com/UmarUdx/smart-expense-tracker.git
 ```bash
 git clone https://github.com/UmarUdx/smart-expense-tracker.git
 ```
->>>>>>> d50f768 (Update README and other changes)
 
 **Navigate into the project folder:**
 ```bash

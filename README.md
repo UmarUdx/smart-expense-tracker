@@ -37,5 +37,4 @@ streamlit run app.py
 ![Expense Tracker Screenshot 3](screenshot3.png)
 
 ### Expense Summary / Dashboard
-![Expense Tracker Screenshot 3](screenshot4.png)
-
+![Expense Tracker Screenshot 4](screenshot4.png)

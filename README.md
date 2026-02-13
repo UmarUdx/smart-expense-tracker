@@ -1,3 +1,5 @@
+https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true
+
 # Smart Expense Tracker
 
 A simple and professional expense tracking app built with **FastAPI** (backend) and **Streamlit** (frontend).

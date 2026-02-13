@@ -28,7 +28,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Expense Tracker Screenshot 1](./image/screenshot1.png)
+![Expense Tracker Screenshot 1](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)
 
 ### Add Expense Page
 ![Expense Tracker Screenshot 2](./image/screenshot2.png)

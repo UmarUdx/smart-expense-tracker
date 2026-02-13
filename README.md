@@ -11,8 +11,7 @@ A simple and professional expense tracking app built with **FastAPI** (backend) 
 ## 🚀 Installation
 To run this project on your local machine, follow these steps:
 
-Clone the repository:
-```bash
+Clone the repository:bash
 git clone https://github.com/UmarUdx/smart-expense-tracker.git  
 
 
@@ -27,11 +26,12 @@ streamlit run app.py
 
 # 📸 Screenshots
 
+
 ### Home Page
-![image alt](https://github.com/UmarUdx/smart-expense-tracker/blob/main/image/screenshot1.png?raw=true)
+![Expense Tracker Screenshot 1](./image/screenshot1.png)
 
 ### Add Expense Page
-![image alt](./image/screenshot2.png)
+![Expense Tracker Screenshot 2](./image/screenshot2.png)
 
 ### Search & Pagination
 ![Expense Tracker Screenshot 3](./image/screenshot3.png)

@@ -36,6 +36,6 @@ streamlit run app.py
 ### Search & Pagination
 ![Expense Tracker Screenshot 3](screenshot3.png)
 
-### Search & Pagination
+### Expense Summary / Dashboard
 ![Expense Tracker Screenshot 3](screenshot4.png)
 
